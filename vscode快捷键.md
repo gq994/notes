@@ -3,6 +3,7 @@
 | shift + alt + r   | 在资源管理器中打开                |
 | shift + alt + ↑/↓ | 快速复制到上/下一行               |
 | shift + alt + f   | 格式化文档                        |
+| shift + ctrl + v  | 快速预览md文档                    |
 | shift + tab       | 往左缩进                          |
 | tab               | 往右缩进                          |
 | ctrl + /          | 快速注释一行                      |
